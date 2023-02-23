@@ -1,5 +1,5 @@
 Name:           oncall-monitor
-Version:        0.0.2
+Version:        0.0.3
 Release:        1%{?dist}
 Summary:        A service to monitor for microphone input and play an alarm on detection
 BuildArch:      noarch
